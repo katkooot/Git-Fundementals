@@ -1,1 +1,6 @@
-var x = 5;
+(function(){
+
+	var x = 5;
+	var s = 3;
+	
+}());
