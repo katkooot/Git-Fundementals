@@ -1,6 +1,6 @@
 (function(){
 
-	var x = 5;
-	var s = 3;
+	var x = 6;
+	var s = 4;
 	
 }());
